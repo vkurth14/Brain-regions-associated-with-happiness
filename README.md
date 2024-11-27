@@ -12,6 +12,7 @@ My home assignment visualizes fMRI data to explore brain regions associated with
 **Data used**: Neurosynth Happy Dataset (https://neurosynth.org/analyses/terms/happy/)
 + anatomical.nii
 + happy_uniformity-test_z_FDR_0.01.nii
+
 **Notebook**: visualizing_happy_fmridata.ipynb
 
 ## Python Packages Used
